@@ -1,7 +1,7 @@
 [
   {
-    "name": "Memory Palace",
-    "token": "mempal",
+    "name": "Diver",
+    "token": "diver",
     "author": "LZX Industries",
     "license": "",
     "pluginUrl": "",
@@ -9,7 +9,22 @@
     "authorEmail": "",
     "manualUrl": "",
     "sourceUrl": "",
-    "latestVersion": 2,
+    "latestVersion": 1,
+    "status": "available",
+    "description": "",
+    "optionByte": 1
+  },
+  {
+    "name": "Escher Sketch",
+    "token": "eschersketch",
+    "author": "LZX Industries",
+    "license": "",
+    "pluginUrl": "",
+    "authorUrl": "",
+    "authorEmail": "",
+    "manualUrl": "",
+    "sourceUrl": "",
+    "latestVersion": 1,
     "status": "available",
     "description": "",
     "optionByte": 1
